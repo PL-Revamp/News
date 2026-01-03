@@ -1,0 +1,55 @@
+{
+  "items": {
+    "0": {
+      "size": "3",
+      "column": "1",
+      "title": "Example Large Title",
+      "body": "Example large body text that spans the full width of the layout area.",
+      "imageUrl": "https://example.com/",
+      "videoUrl": "https://example.com/",
+      "buttonText": "Example Primary Action",
+      "actionType": "open_url",
+      "actionData": "https://example.com/",
+      "timestamp": 1704067200000,
+      "priority": 10,
+      "backgroundColor": "#000000",
+      "textColor": "#FFFFFF"
+    },
+    "1": {
+      "size": "1",
+      "column": "1",
+      "title": "Example Small Title A",
+      "body": "Example small body text A.",
+      "imageUrl": "https://example.com/",
+      "buttonText": "Example Action A",
+      "actionType": "open_url",
+      "actionData": "https://example.com/",
+      "timestamp": 1704153600000,
+      "priority": 9
+    },
+    "2": {
+      "size": "1",
+      "column": "2",
+      "title": "Example Small Title B",
+      "body": "Example small body text B.",
+      "imageUrl": "https://example.com/",
+      "buttonText": "Example Action B",
+      "actionType": "open_url",
+      "actionData": "https://example.com/,
+      "timestamp": 1704240000000,
+      "priority": 8
+    },
+    "3": {
+      "size": "2",
+      "column": "2",
+      "title": "Example Medium Title C",
+      "body": "Example medium body text C with additional information.",
+      "imageUrl": "https://example.com/",
+      "buttonText": "Example Action C",
+      "actionType": "open_url",
+      "actionData": "https://example.com/",
+      "timestamp": 1704326400000,
+      "priority": 7
+    }
+  }
+}
